@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6_8xFb60F"
+#define BLYNK_TEMPLATE_ID ""
 #define BLYNK_TEMPLATE_NAME "Monitoring Kelas"
-#define BLYNK_AUTH_TOKEN "N6sh-j01WRG4V4vVEcm0g60wFpBIyDLN"
+#define BLYNK_AUTH_TOKEN ""
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
