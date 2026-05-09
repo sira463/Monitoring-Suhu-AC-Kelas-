@@ -112,8 +112,8 @@ int conf = 0;
 // WiFi dan server
 const char* ssid = "wifi-iot";
 const char* password = "password-iot";
-const char* server_url = "http://labrobotika.go-web.my.id/server.php?apikey=";
-const char* apikey = "046c4cec0a0097b3fc38544bbd00422b";
+const char* server_url = "";
+const char* apikey = "";
 unsigned long delay_iot = 10000;
 unsigned long last_request = 0;
 DynamicJsonDocument data(2048);
